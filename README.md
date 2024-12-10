@@ -100,7 +100,7 @@
 
 ## software Xcell journal
 
-| Number |
-| --- |
+| Number | Date |
+| --- | -- |
 | [Xcell_sw1](./Xcell_journals/Xcell1.pdf) | 2015 |
 | [Xcell_sw2](./Xcell_journals/Xcell1.pdf) | 2015 |

@@ -102,5 +102,5 @@
 
 | Number | Date |
 | --- | -- |
-| [Xcell_sw1](./Xcell_journals/Xcell1.pdf) | 2015 |
-| [Xcell_sw2](./Xcell_journals/Xcell1.pdf) | 2015 |
+| [Xcell_sw1](./Software_Xcell_journals/Xcell_software1.pdf) | 2015 |
+| [Xcell_sw2](./Software_Xcell_journals/Xcell_software2.pdf) | 2015 |

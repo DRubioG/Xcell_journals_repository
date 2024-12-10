@@ -104,4 +104,4 @@
 | --- | -- |
 | [Xcell_sw1](./Software_Xcell_journals/Xcell_software1.pdf) | 2015 |
 | [Xcell_sw2](./Software_Xcell_journals/Xcell_software2.pdf) | 2015 |
-| [Xcell_sw2](./Software_Xcell_journals/Xcell_software3.pdf) | 2016 |
+| [Xcell_sw3](./Software_Xcell_journals/Xcell_software3.pdf) | 2016 |
